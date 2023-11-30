@@ -1,6 +1,6 @@
 # Silk-protein-polymer3D
 
-Silk protein project - Physics of Life 
+Silk protein project - Physics of Life - University of York
 
 ## Motivation
 Silk is a complex polymer material that is formed through the self-assembly of polypeptide
