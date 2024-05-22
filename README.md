@@ -15,4 +15,7 @@ optimise this process. We here address this question by extending the [previous 
 
 For the first part of the analysis, in the linear regime, data can be found in [this link](https://drive.google.com/drive/folders/1tZkMPG4S_jBB37mcLRI-eiOQJIe5Ptc_?usp=share_link).
 - Nature of the data: Synthetic data produced with the [Viking Cluster](https://vikingdocs.york.ac.uk/) at York.
+
+## Notebooks
+
 - Part 1: [Preprocessing and selection of data](https://github.com/Alexandre-Hefren/Silk-protein-polymer3D/blob/main/silkprotein_analysis1.ipynb) 
